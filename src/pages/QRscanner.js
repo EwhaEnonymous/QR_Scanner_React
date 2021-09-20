@@ -3,6 +3,7 @@ import {Fab, TextareaAutosize} from '@material-ui/core'
 import {ArrowBack} from '@material-ui/icons'
 import { Link } from "react-router-dom";
 import QrScan from 'react-qr-reader'
+import axios from 'axios';
 
 function QRscanner() {
 
@@ -10,6 +11,21 @@ function QRscanner() {
     const handleScan = data => {
         if (data) {
             setQrscan(data)
+            var qrData = data
+            var jsonText = JSON.parse(qrData)
+            console.log(jsonText.id)
+            console.log(jsonText.deleted)
+ 
+            axios.patch('https://www.ttockclinic.com/v1/paper/qr-usage-count', {
+                id : jsonText.id,
+                deleted : jsonText.deleted
+            })
+            .then(function (response){
+                console.log(response)
+            })
+            .catch(function (error){
+                console.log(error)
+            })
         }
     }
     const handleError = err => {
