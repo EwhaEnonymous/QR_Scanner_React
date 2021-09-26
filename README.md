@@ -60,13 +60,13 @@
 
 - QR Scanned Page
 
-![./image/QRscanned.png](./img/QRscanned.png)
+![./image/QRscanned.png](./img/QRScanned.png)
 
 
 
 ### API
 
-__/paper/qr-usage-count__
+__PATCH: /paper/qr-usage-count__
 
 ![./image/API.png](./img/API.png)
 
