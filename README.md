@@ -48,7 +48,7 @@
 
 - Home Page
 
-![./image/Home.png](.\image\Home.PNG)
+![./image/Home.png](./img/Home.png)
 
 
 
@@ -56,11 +56,11 @@
 
 - QR Scanner Page
 
-![./image/QRScanner.png](./image/QRScanner.png)
+![./image/QRScanner.png](./img/QRScanner.png)
 
 - QR Scanned Page
 
-![./image/QRscanned.png](./image/QRscanned.png)
+![./image/QRscanned.png](./img/QRscanned.png)
 
 
 
@@ -68,7 +68,7 @@
 
 __/paper/qr-usage-count__
 
-![./image/API.png](./image/API.png)
+![./image/API.png](./img/API.png)
 
 - 1회 스캔 시 waitings +1 update
 - 2회 스캔 시 waitings -1 update
