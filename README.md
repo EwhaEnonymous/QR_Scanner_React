@@ -56,11 +56,11 @@
 
 - QR Scanner Page
 
-![./image/QRScanner.png](.\image\QRScanner.png)
+![./image/QRScanner.png](./image/QRScanner.png)
 
 - QR Scanned Page
 
-![./image/QRscanned.png](.\image\QRscanned.png)
+![./image/QRscanned.png](./image/QRscanned.png)
 
 
 
@@ -68,7 +68,7 @@
 
 __/paper/qr-usage-count__
 
-![./image/API.png](.\image\API.png)
+![./image/API.png](./image/API.png)
 
 - 1회 스캔 시 waitings +1 update
 - 2회 스캔 시 waitings -1 update
