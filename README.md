@@ -55,11 +55,11 @@
 
 - QR Scanner Page
 
-![./image/QRScanner.png](./img/QRScanner.png)
+<img width="296" alt="QRScanner" src="https://user-images.githubusercontent.com/71377968/134800969-1d9d9f3e-c3f9-4c3f-80d4-b8ab44930c5c.png">
 
 - QR Scanned Page
 
-![./image/QRscanned.png](./img/QRScanned.png)
+<img width="328" alt="QRScanned" src="https://user-images.githubusercontent.com/71377968/134801017-1ad47708-2abb-41e2-a232-82a148517193.png">
 
 
 
@@ -67,7 +67,7 @@
 
 __PATCH: /paper/qr-usage-count__
 
-![./image/API.png](./img/API.png)
+<img width="743" alt="API" src="https://user-images.githubusercontent.com/71377968/134801034-0ebccd77-f4f5-4300-96a7-4330b9f9321f.png">
 
 - 1회 스캔 시 waitings +1 update
 - 2회 스캔 시 waitings -1 update
