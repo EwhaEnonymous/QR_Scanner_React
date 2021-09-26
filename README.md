@@ -48,8 +48,7 @@
 
 - Home Page
 
-![./image/Home.png](./img/Home.png)
-
+<img width="559" alt="Home" src="https://user-images.githubusercontent.com/71377968/134800867-acdcbd03-6848-42e9-b213-cdbcb996067e.png">
 
 
 
