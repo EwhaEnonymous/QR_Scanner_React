@@ -15,13 +15,21 @@ function QRscanner() {
         if (data) {
             setQrscan(data)
             var qrData = data
-            var jsonText = JSON.parse(qrData)
-            console.log(jsonText.id)
-            console.log(jsonText.deleted)
+
+            console.log(qrData)
+
+            // String Split 
+            const paper = qrData.split(' ');
+            console.log(paper[0])
+            console.log(paper[1])
+
+            //var jsonText = JSON.parse(qrData)          
+            //console.log(jsonText.id)
+            //console.log(jsonText.deleted)
  
             axios.patch('https://www.ttockclinic.com/v1/paper/qr-usage-count', {
-                id : jsonText.id,
-                deleted : jsonText.deleted
+                //id : jsonText.id,
+                //deleted : jsonText.deleted
             })
             .then(function (response){
                 console.log(response)
