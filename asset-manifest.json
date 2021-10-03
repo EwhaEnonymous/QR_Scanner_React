@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/QR_Scanner_React/static/css/main.2a4f52fc.chunk.css",
+    "main.js": "/QR_Scanner_React/static/js/main.2d024749.chunk.js",
+    "main.js.map": "/QR_Scanner_React/static/js/main.2d024749.chunk.js.map",
+    "runtime-main.js": "/QR_Scanner_React/static/js/runtime-main.ba530b9f.js",
+    "runtime-main.js.map": "/QR_Scanner_React/static/js/runtime-main.ba530b9f.js.map",
+    "static/js/2.b1ec4edb.chunk.js": "/QR_Scanner_React/static/js/2.b1ec4edb.chunk.js",
+    "static/js/2.b1ec4edb.chunk.js.map": "/QR_Scanner_React/static/js/2.b1ec4edb.chunk.js.map",
+    "static/js/3.a7fb7dd0.chunk.js": "/QR_Scanner_React/static/js/3.a7fb7dd0.chunk.js",
+    "static/js/3.a7fb7dd0.chunk.js.map": "/QR_Scanner_React/static/js/3.a7fb7dd0.chunk.js.map",
+    "index.html": "/QR_Scanner_React/index.html",
+    "static/css/main.2a4f52fc.chunk.css.map": "/QR_Scanner_React/static/css/main.2a4f52fc.chunk.css.map",
+    "static/js/2.b1ec4edb.chunk.js.LICENSE.txt": "/QR_Scanner_React/static/js/2.b1ec4edb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba530b9f.js",
+    "static/js/2.b1ec4edb.chunk.js",
+    "static/css/main.2a4f52fc.chunk.css",
+    "static/js/main.2d024749.chunk.js"
+  ]
+}
